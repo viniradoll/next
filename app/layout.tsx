@@ -1,7 +1,7 @@
 import { Providers } from "./providers"
 
 export const metadata = {
-  title: 'Coisa',
+  title: 'Clock App',
 }
 
 export default function RootLayout({

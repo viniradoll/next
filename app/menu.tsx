@@ -46,7 +46,7 @@ export default function Menu({ setTimezones }: Props) {
     return (
         <div className="w-1/3 h-60 bg-default-50 rounded-2xl flex flex-col justify-start">
             <div className='px-3 flex flex-col justify-center text-5xl h-2/5 bg-gradient-to-r from-emerald-800 to-emerald-400 rounded-2xl'>
-                Menu
+                Menuzão
             </div>
             <div className='h-full w-full flex justify-center items-center grow'>
                 <Select
